@@ -19,7 +19,8 @@ Cada vez que el usuario presiona el botón de incremento, la aplicación calcula
 
 ![Captura de la aplicación](images/captura-app.png)
 
-##Captura del código implementado
+
+## Captura del código implementado
 
 ![Captura de la aplicación](images/captura-app.png)
 
