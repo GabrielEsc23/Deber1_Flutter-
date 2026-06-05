@@ -1,17 +1,84 @@
-# flutter_application_1
+# Aplicación de Números Primos con Flutter
 
-A new Flutter project.
+## Descripción
 
-## Getting Started
+Esta aplicación fue desarrollada utilizando Flutter y permite mostrar números primos de forma secuencial mediante un contador interactivo.
 
-This project is a starting point for a Flutter application.
+Cada vez que el usuario presiona el botón de incremento, la aplicación calcula y muestra el siguiente número primo.
 
-A few resources to get you started if this is your first Flutter project:
+## Características
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* Interfaz desarrollada con Flutter.
+* Generación de números primos.
+* Actualización dinámica de la interfaz mediante `setState()`.
+* Compatible con Flutter Web.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Captura de Pantalla
+
+
+
+![Captura de la aplicación](images/captura-app.png)
+
+##Captura del código implementado
+
+![Captura de la aplicación](images/captura-app.png)
+
+## Tecnologías Utilizadas
+
+* Flutter
+* Dart
+* Material Design
+
+## Estructura del Proyecto
+
+```text
+lib/
+ └── main.dart
+
+web/
+ ├── index.html
+ └── manifest.json
+```
+
+## Ejecución del Proyecto
+
+1. Clonar el repositorio:
+
+```bash
+git clone URL_DEL_REPOSITORIO
+```
+
+2. Acceder al directorio:
+
+```bash
+cd nombre-del-proyecto
+```
+
+3. Instalar dependencias:
+
+```bash
+flutter pub get
+```
+
+4. Ejecutar en navegador:
+
+```bash
+flutter run -d chrome
+```
+
+## Funcionamiento
+
+La aplicación utiliza una función que determina si un número es primo verificando que no tenga divisores distintos de 1 y de sí mismo.
+
+Cuando el usuario presiona el botón:
+
+1. Se incrementa el contador.
+2. Se verifica si el número es primo.
+3. Si no es primo, se continúa incrementando.
+4. Se muestra el siguiente número primo encontrado.
+
+## Autor
+
+**Gabriel**
+
+Proyecto desarrollado como práctica de Flutter y Dart.
