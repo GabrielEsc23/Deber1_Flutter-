@@ -13,7 +13,7 @@ Cada vez que el usuario presiona el botón de incremento, la aplicación calcula
 * Actualización dinámica de la interfaz mediante `setState()`.
 * Compatible con Flutter Web.
 
-## Captura de Pantalla
+## Captura de Pantalla de la aplicación
 
 
 
@@ -80,6 +80,6 @@ Cuando el usuario presiona el botón:
 
 ## Autor
 
-**Gabriel**
+**Gabriel Escobar**
 
 Proyecto desarrollado como práctica de Flutter y Dart.
