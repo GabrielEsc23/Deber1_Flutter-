@@ -86,7 +86,9 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Colors.red,
       appBar: AppBar(
+        backgroundColor: const Color.fromARGB(255, 103, 134, 31),
         title: const Text('Números Primos'),
       ),
       body: Center(
