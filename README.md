@@ -17,12 +17,12 @@ Cada vez que el usuario presiona el botón de incremento, la aplicación calcula
 
 
 
-![Captura de la aplicación](images/captura-app.png)
+![Captura de la aplicación](https://raw.githubusercontent.com/GabrielEsc23/Deber1_Flutter-/main/Capturas-tarea1_flutter/Captura-app.png)
 
 
 ## Captura del código implementado
 
-![Captura de la aplicación](images/captura-app.png)
+![Captura de la aplicación](https://raw.githubusercontent.com/GabrielEsc23/Deber1_Flutter-/main/Capturas-tarea1_flutter/Captura-codigo.png)
 
 ## Tecnologías Utilizadas
 
